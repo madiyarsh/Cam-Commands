@@ -2,6 +2,8 @@
 
 roslaunch flea3 stereo_node.launch left:=20509412 right:=20509408
 
+`<roslaunch flea3 stereo_node.launch left:=20509412 right:=20509408>'
+
 ROS_NAMESPACE=stereo rosrun stereo_image_proc stereo_image_proc
 
 #RUN ALGORHITM
