@@ -1,4 +1,4 @@
-#Launch Camera
+Launch Camera
 
 `roslaunch flea3 stereo_node.launch left:=20509412 right:=20509408`
 
