@@ -16,3 +16,6 @@ Launch Lidar
 Transformation matrix for lidar
 
 `rosrun tf static_transform_publisher 0 0 0 0 0 0 1 map laser 100`
+
+LAUNCH Hector Slam
+`roslaunch hector_slam_launch tutorial.launch`
