@@ -20,3 +20,7 @@ Transformation matrix for lidar
 LAUNCH Hector Slam
 
 `roslaunch hector_slam_launch tutorial.launch`
+
+Single camera:
+
+`roslaunch flea3 single_node.launch device:=20509408`
