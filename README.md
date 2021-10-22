@@ -24,3 +24,9 @@ LAUNCH Hector Slam
 Single camera:
 
 `roslaunch flea3 single_node.launch device:=20509408`
+
+GAZEBO:
+`roslaunch jackal_gazebo jackal_world.launch config:=front_laser
+
+JACKAL RVIZ:
+`roslaunch jackal_viz view_robot.launch
