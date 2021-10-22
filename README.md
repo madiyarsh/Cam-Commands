@@ -25,7 +25,7 @@ Single camera:
 
 `roslaunch flea3 single_node.launch device:=20509408`
 
-GAZEBO:`
+GAZEBO:
 `roslaunch jackal_gazebo jackal_world.launch config:=front_laser`
 
 JACKAL RVIZ:
